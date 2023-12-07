@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My first title ",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nisl nisi scelerisque eu ultrices vitae auctor eu. Nullam ac tortor vitae purus faucibus ornare suspendisse. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "createDate": "2023-12-01",
+    "phone": ""
+  },
+  {
+    "title": "My second title ",
+    "text": "",
+    "createDate": "",
+    "phone": ""
+  },
+  {
+    "title": "My third title ",
+    "text": "Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Aliquam nulla facilisi cras fermentum odio eu. Imperdiet nulla malesuada pellentesque elit eget gravida cum. Id leo in vitae turpis massa sed. Urna cursus eget nunc scelerisque. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat.",
+    "createDate": "2023-12-02",
+    "phone": "+38(099)350-230-12"
+  },
+  {
+    "title": "My fourth title ",
+    "text": "Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Gravida quis blandit turpis cursus in. Sit amet cursus sit amet. Duis at tellus at urna condimentum mattis pellentesque.",
+    "createDate": "2023-12-15",
+    "phone": "+38(067)100-200-15"
+  }
+]
